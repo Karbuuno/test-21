@@ -17,6 +17,9 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.13"
   },
+  "engines": {
+    "node": "16.14.2"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
